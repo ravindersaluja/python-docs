@@ -1,2 +1,2 @@
 # Python Docs
-This repo contains basic python code documentation and examples.
+This repo contains python code from the documentation along with some additional explanation, references and examples.
